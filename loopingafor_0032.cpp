@@ -7,4 +7,11 @@ int main() {
         cout << "Nilai i : " << i << " Teknologi Informasi" << endl;
 
     }
+    cout << endl;
+          // for untuk turun
+    cout << "PERULANGAN FOR" << endl;
+    for (int i = 5; i > 0; i--) {
+        cout << "Nilai i : " << i << " Teknologi Informasi" << endl;
+
+    }
     
